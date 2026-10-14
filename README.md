@@ -1,7 +1,7 @@
 # BÁO CÁO GIỮA KỲ CSE122 – SINH VIÊN 3 (SV3)
 
-- **Họ và tên:** [Họ tên SV3]
-- **Mã sinh viên:** [Mã SV3]
+- **Họ và tên:** Tran Duc Anh
+- **Mã sinh viên:** 2551060579
 - **Vai trò BTL:** Điều phối viên (Coordinator)
 - **Trang chính thực hiện:** `coordinator-request-board.html` (Bảng Điều Phối Yêu Cầu Thu Gom SLA & AI-3)
 
