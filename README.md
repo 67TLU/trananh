@@ -13,6 +13,6 @@
 
 ## 3 Link nộp bài của SV3:
 1. **Link Figma:** [Figma Link](https://www.figma.com/)
-2. **Link GitHub cá nhân:** [GitHub Repo SV3](https://github.com/)
+2. **Link GitHub cá nhân:** [GitHub Repo SV3](https://github.com/tducanh22122007-art/)
 3. **Link Video OBS 3 phút:** [Video OBS](https://youtube.com/)
 - Tên video: `CSE122-GK-SV03-[HoTen]-CoordinatorRequestBoard`
